@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Pr.-Windows-Firewall
+>>>>>>> afc073825ecad161b788130e871aaca0d4441a04
 This project was completed legally on the TryHackMe platform, which provides a safe environment for learning cybersecurity and performing practical exercises. All actions described in the project were carried out within the framework of educational tasks using the provided virtual machines and resources in accordance with the platform’s rules.
 
 In this project, I worked with the Windows Defender Firewall — the built-in firewall of the Windows operating system. My task was to create rules to block incoming and outgoing traffic, as well as set up custom rules to restrict access to certain services.
